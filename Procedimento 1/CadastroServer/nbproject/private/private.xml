@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/cadastroserver/CadastroServer.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/cadastroserver/CadastroThread.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/cadastroserver/exceptions/IllegalOrphanException.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/cadastroserver/exceptions/NonexistentEntityException.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/cadastroserver/exceptions/PreexistingEntityException.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/controller/MovimentoJpaController.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/controller/PessoaFisicaJpaController.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/controller/PessoaJpaController.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/controller/PessoaJuridicaJpaController.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/controller/ProdutoJpaController.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/controller/UsuarioJpaController.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/model/Movimento.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/model/Pessoa.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/model/PessoaFisica.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/model/PessoaJuridica.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/model/Produto.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/src/model/Usuario.java</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/build/classes/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/build/classes/resouces.res</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/private/config.properties</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/private/private.properties</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/private/private.xml</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/genfiles.properties</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/project.properties</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/nbproject/project.xml</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/build.xml</file>
+            <file>file:/C:/Users/pedro/Desktop/P%20Missao%205%20Mundo%203/Procedimento%201/CadastroServer/manifest.mf</file>
+        </group>
+    </open-files>
+</project-private>
